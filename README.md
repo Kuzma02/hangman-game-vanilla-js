@@ -4,6 +4,7 @@
 Welcome to my Vanilla JavaScript Hangman Game! This project is a modern take on the classic word guessing game. Developed purely with Vanilla JavaScript, HTML, and CSS, it's a simple yet engaging game designed for web enthusiasts and learners alike. Whether you're looking to improve your vocabulary, kill some time, or dive into the basics of web development, this game is for you!
 
 https://kuzma02.github.io/hangman-game-vanilla-js/
+
 ![hangman game](https://github.com/Kuzma02/hangman-game-vanilla-js/assets/138793624/6c6ac1fe-97ec-4d6e-9596-7954877b0b78)
 
 # Features
